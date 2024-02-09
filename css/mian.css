@@ -37,7 +37,7 @@ main {
     background: var(--Black);
 }
 
-.parts {
+.profil {
     display: flex;
     width: 384px;
     padding: 40px;
@@ -53,13 +53,13 @@ main {
     justify-content: center;
 }
 
-.part_image {
+.profil_image {
     width: 88px;
     height: 88px;
     border-radius: 50%;
 }
 
-.part_title {
+.profil_title {
     margin-top: 24px;
     color: var(--White);
     text-align: center;
@@ -70,7 +70,7 @@ main {
     line-height: 150%;
 }
 
-.part_social {
+.profil_social {
     margin-top: 4px;
     align-self: stretch;
     color: var(--Green);
@@ -80,7 +80,7 @@ main {
     font-weight: 700;
     line-height: 150%;
 }
-.part_text {
+.profil_text {
     margin-top: 24px;
     align-self: stretch;
     color: var(--White);
